@@ -20,9 +20,12 @@ Inglês: Avançado em desenvolvimento, conversação regular, escrita avançada 
 
 ### Experiencia Profissional:
 **Reamp - Estagiário - 2014 – 2016** (Java, Ruby on Rails, Angular) - Desenvolvimento de aplicações em Ruby e Rails e Angular.
+
 **Reamp - Desenvolvedor Jr. 2016 – 2018** (Java, Node.js, React) - Automatizar tarefas, criação de APIs, e desenvolvimento front-end e back-end.
 
 
 ### Redes Sociais:
 **Linkedin:** www.linkedin.com/in/alcino-luiz
-**Github:** github.com/alcinoluiz/
+
+**Github:** github.com/alcinoluiz/  
+
